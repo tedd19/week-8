@@ -12,9 +12,16 @@
 
 #footer {}
 
-body {
-	text-align: center
+* {
+	color: white;
 }
+
+body {
+	background-image: url("C:/Users/SilverSurfer/Desktop/CodeifyAcademy/week 8/Zodiac/img/stars.jpg");
+	text-align: center;
+}
+
+
 
 
 @media (max-width: 600px) {
